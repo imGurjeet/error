@@ -11,3 +11,8 @@ body::after {
     font-weight: 900;
     font-size: 15px;
 }
+body{
+  background-image:url("https://i.sstatic.net/kOnzy.gif");
+  background-repeat: no-repeat;
+  
+}
