@@ -1,7 +1,7 @@
 body>*{
   display:none;
 }
-body::after {
+/*body::after {
     content: "Error:404";
     display: flex;
     justify-content: center;
@@ -10,7 +10,7 @@ body::after {
     font-family: monospace;
     font-weight: 900;
     font-size: 15px;
-}
+}*/
 body{
   background-image:url("https://i.sstatic.net/kOnzy.gif");
   background-repeat: no-repeat;
