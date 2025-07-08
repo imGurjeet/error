@@ -12,8 +12,9 @@ body>*{
     font-size: 15px;
 }*/
 body{
-  background-image:url("https://i.sstatic.net/kOnzy.gif");
+  background-image:url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEO1m-2p6bxZvDYTAYAVyI3qbBLSWXfZB1Zc767VZXmp3EVEG1sf1T_pREx50jtMtRK2RtRoBpynzwf_r1gYu6ABj_tnMrFa_8A6m0Qqb86yTtaSqDCWmARZ8ST9ak3Uv2ahvYYr0TbUg/s1600/1.gif");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 100px;
+  height:100vh;
+  width:100%;
 }
